@@ -1,0 +1,2 @@
+include ':app', ':mybroadcastreceiver', ':keepservicealive', ':threelevelload'
+rootProject.name='MyApplicationDemo'
